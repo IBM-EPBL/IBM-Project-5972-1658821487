@@ -3,13 +3,16 @@
 
 
 ## Team Members: 
-DARISI VENKATA VEERA SOMASEKHAR,BONAMSETTI NAGA NARENDRA,CHIRANJEEVI A,ALLA VENKATA CHARAN REDDY.
+1.DARISI VENKATA VEERA SOMASEKHAR,
+2.BONAMSETTI NAGA NARENDRA,
+3.CHIRANJEEVI A,
+4.ALLA VENKATA CHARAN REDDY.
 
 # Abstract:
-/Students are often worried about their chances of admission to University.
-//The aim of this project is to help students in shortlisting universities with their profiles.
-///The predicted output gives them a fair idea about their admission chances to a particular university.
-////This analysis should also help students who are currently preparing or will be preparing to get a better idea.
+Students are often worried about their chances of admission to University.
+The aim of this project is to help students in shortlisting universities with their profiles.
+The predicted output gives them a fair idea about their admission chances to a particular university.
+This analysis should also help students who are currently preparing or will be preparing to get a better idea.
 
 # Project Objectives:
   To understand regression and classification problems.
